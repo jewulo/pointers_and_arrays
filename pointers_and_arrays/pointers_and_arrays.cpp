@@ -1,14 +1,29 @@
 // pointers_and_arrays.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-// https://www.youtube.com/watch?v=4Rll-_e9-0M&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&index=4
-// https://www.youtube.com/watch?v=KDQXUysHLL8&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&index=5
-// https://www.youtube.com/watch?v=4Rll-_e9-0M&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&index=6
+
 
 #include <iostream>
 
+#include "lecture_1_4.h"
+#include "lecture_1_5.h"
+#include "lecture_1_6.h"
+#include "lecture_2_1.h"
+#include "lecture_2_2.h"
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    //lec_1_4_a();
+    //lec_1_4_b();
+
+    //lec_1_5_a();
+    //lec_1_5_b();
+    lec_1_5_c();
+    lec_1_5_d();
+
+    lec_1_6_a();
+
+    lec_2_1_a();
+    lec_2_2_a();
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

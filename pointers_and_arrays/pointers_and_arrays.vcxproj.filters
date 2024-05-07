@@ -13,10 +13,66 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\lecture_1">
+      <UniqueIdentifier>{b9865fbd-f2ba-4466-be84-18d851d7116b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\lecture_1">
+      <UniqueIdentifier>{eb6b59b9-ac94-444f-ab07-a3f6d66e74e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\lecture_2">
+      <UniqueIdentifier>{2a5b5f2e-20dc-43ed-8327-85ce0f1cbdb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\lecture_2">
+      <UniqueIdentifier>{cd26fb8d-a5c4-4b65-99f2-f8c3f3da5b2e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pointers_and_arrays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lecture_1_4.cpp">
+      <Filter>Source Files\lecture_1</Filter>
+    </ClCompile>
+    <ClCompile Include="lecture_1_5.cpp">
+      <Filter>Source Files\lecture_1</Filter>
+    </ClCompile>
+    <ClCompile Include="lecture_1_6.cpp">
+      <Filter>Source Files\lecture_1</Filter>
+    </ClCompile>
+    <ClCompile Include="lecture_2_1.cpp">
+      <Filter>Source Files\lecture_2</Filter>
+    </ClCompile>
+    <ClCompile Include="lecture_2_2.cpp">
+      <Filter>Source Files\lecture_2</Filter>
+    </ClCompile>
+    <ClCompile Include="lecture_2_3.cpp">
+      <Filter>Source Files\lecture_2</Filter>
+    </ClCompile>
+    <ClCompile Include="lecture_2_4.cpp">
+      <Filter>Source Files\lecture_2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lecture_1_4.h">
+      <Filter>Header Files\lecture_1</Filter>
+    </ClInclude>
+    <ClInclude Include="lecture_1_5.h">
+      <Filter>Header Files\lecture_1</Filter>
+    </ClInclude>
+    <ClInclude Include="lecture_1_6.h">
+      <Filter>Header Files\lecture_1</Filter>
+    </ClInclude>
+    <ClInclude Include="lecture_2_1.h">
+      <Filter>Header Files\lecture_2</Filter>
+    </ClInclude>
+    <ClInclude Include="lecture_2_2.h">
+      <Filter>Header Files\lecture_2</Filter>
+    </ClInclude>
+    <ClInclude Include="lecture_2_3.h">
+      <Filter>Header Files\lecture_2</Filter>
+    </ClInclude>
+    <ClInclude Include="lecture_2_4.h">
+      <Filter>Header Files\lecture_2</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
